@@ -1,0 +1,28 @@
+{
+  "name": "karma_linux_bug",
+  "version": "0.0.0",
+  "description": "karma_linux_bug ===============",
+  "main": "karma.conf.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "karma": "~0.12.16",
+    "karma-phantomjs-launcher": "~0.1.4",
+    "karma-jasmine": "~0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/abierbaum/karma_linux_bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abierbaum/karma_linux_bug/issues"
+  },
+  "homepage": "https://github.com/abierbaum/karma_linux_bug"
+}
