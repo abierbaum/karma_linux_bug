@@ -13,7 +13,7 @@ describe('Jasmine Testing', function() {
       });
 
       it("should test me", function() {
-         console.log('aa');
+         console.log('aaa');
          expect(true).toEqual(true);
       });
    });
